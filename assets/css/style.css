@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("../images/train.jpg");
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: white;
+}
